@@ -14,6 +14,7 @@
     * [RDF](#rdf)
     * [SQL](#sql)
     * [XML](#xml)
+  * [Editors](#editors)
   * [Parsers](#parsers)
     * [Dart](#dart)
     * [.NET](#net)
@@ -37,10 +38,11 @@
 ### CSV
 
 * [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 65 | 🐛 49 | 🌐 C# | 📅 2026-08-08 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
+* [twineconvert](https://twineconvert.com/gedcom-to-csv) - In-browser GEDCOM to CSV converter. No install, no upload, files stay on your device. Preserves family relationships via FAM/INDI ID links and keeps fuzzy dates ("BEF 1850", "ABT JUN 1923") as strings instead of forcing ISO.
 
 ### DOT
 
-* [ged2dot](https://github.com/vmiklos/ged2dot) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2026-07-02 - GEDCOM to Graphviz converter
+* [ged2dot](https://github.com/vmiklos/ged2dot) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2026-08-13 - GEDCOM to Graphviz converter
 
 ### GEDCOM X
 
@@ -49,6 +51,7 @@
 ### JSON
 
 * [GEDCOMToJSONConverter](https://github.com/PatKayongo/GEDCOMToJSONConverter) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2015-04-29 - Convert GEDCOM genealogy file to a JSON representation
+* [twineconvert](https://twineconvert.com/gedcom-to-json) - In-browser GEDCOM to JSON converter. Outputs hierarchical JSON with individuals, families, sources, and event references already linked by ID. Useful for feeding family-tree data into D3, React, or any web visualization without writing a parser.
 
 ### RDF
 
@@ -65,6 +68,13 @@
 * [gedcomparser](https://github.com/alfredxiao/gedcomparser) ⭐ 1 | 🐛 1 | 🌐 Groovy | 📅 2013-10-30 - GEDCOM parser, convert an GEDCOM raw data file into XML
 
 ***
+
+## Editors
+
+* [Domorium for VS Code](https://marketplace.visualstudio.com/items?itemName=domorium.gedcom) - GEDCOM autocomplete, validation as you type, go to definition and safe XREF rename
+* [Domorium for JetBrains IDEs](https://plugins.jetbrains.com/plugin/33323-gedcom) - the same, for IntelliJ IDEA and the rest of the JetBrains platform
+* [Domorium for Obsidian](https://community.obsidian.md/plugins/domorium) - edit `.ged` files inside an Obsidian vault, on desktop and mobile
+* [Domorium Web](https://domorium.com) - validate and edit a GEDCOM file in the browser with nothing to install; the file is read locally and never uploaded
 
 ## Parsers
 
@@ -151,4 +161,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
