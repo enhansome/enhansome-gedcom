@@ -106,7 +106,7 @@
             "last_commit": "2026-08-12T17:39:29Z",
             "owner": "FamilySearch",
             "repo": "GEDCOM",
-            "stars": 271
+            "stars": 274
           }
         },
         {
@@ -433,7 +433,7 @@
             "last_commit": "2026-08-09T11:58:56Z",
             "owner": "PeWu",
             "repo": "topola-viewer",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:55:19.509Z",
+    "last_updated": "2026-08-17T09:07:20.991Z",
     "original_repository": "todrobbins/awesome-gedcom",
     "original_repository_sha": "35ac1a4d443e8b6975a3e080c0481309f26d5a07",
     "enhanced_repository": "enhansome/enhansome-gedcom",
