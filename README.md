@@ -97,13 +97,13 @@
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 274 | 🐛 120 | 🌐 Python | 📅 2026-08-12 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 270 | 🐛 120 | 🌐 Python | 📅 2026-08-12 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
 ### JavaScript/Node.js
 
-* [parse-gedcom](https://github.com/tmcw/parse-gedcom) ⭐ 188 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-14 - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
+* [parse-gedcom](https://github.com/tmcw/parse-gedcom) ⭐ 187 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-14 - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
 * [gedcom.js](https://github.com/dcapwell/gedcom.js) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2022-04-18 - Gedcom parser for JavaScript
 * [read-gedcom](https://github.com/arbre-app/read-gedcom) ⭐ 26 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-12 - A modern GEDCOM parser with type declarations
 * [family-tree-nodejs](https://github.com/woodbri/family-tree-nodejs) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-17 - Application for loading GEDCOM files and serving them on the web as navigable family trees
@@ -161,4 +161,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
