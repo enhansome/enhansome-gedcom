@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 76 | 🌐 Python | 📅 2026-08-19 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 77 | 🌐 Python | 📅 2026-08-21 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -98,7 +98,7 @@
 ### Go
 
 * [gedcom](https://github.com/elliotchance/gedcom) ⭐ 124 | 🐛 63 | 🌐 Go | 📅 2024-06-10 ([@elliotchance](https://github.com/elliotchance/)) - library & CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files
-* [gedcom](https://github.com/iand/gedcom) ⭐ 42 | 🐛 0 | 🌐 Go | 📅 2026-05-22 ([@iand](https://github.com/iand/)) - Go package to parse GEDCOM files
+* [gedcom](https://github.com/iand/gedcom) ⭐ 41 | 🐛 0 | 🌐 Go | 📅 2026-05-22 ([@iand](https://github.com/iand/)) - Go package to parse GEDCOM files
 
 ### Java
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
