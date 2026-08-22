@@ -38,7 +38,7 @@
 
 ### CSV
 
-* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 65 | 🐛 49 | 🌐 C# | 📅 2026-08-19 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
+* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 65 | 🐛 49 | 🌐 C# | 📅 2026-08-21 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
 * [twineconvert](https://twineconvert.com/gedcom-to-csv) - In-browser GEDCOM to CSV converter. No install, no upload, files stay on your device. Preserves family relationships via FAM/INDI ID links and keeps fuzzy dates ("BEF 1850", "ABT JUN 1923") as strings instead of forcing ISO.
 
 ### DOT
@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 77 | 🌐 Python | 📅 2026-08-21 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 79 | 🌐 Python | 📅 2026-08-22 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
