@@ -7,6 +7,94 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FTAnalyzer",
+              "description": "FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95352451,
+                "language": "C#",
+                "last_commit": "2026-08-21T14:16:21Z",
+                "owner": "ShammyLevva",
+                "repo": "FTAnalyzer",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSV"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ged2dot",
+              "description": "GEDCOM to Graphviz converter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14041463,
+                "language": "Python",
+                "last_commit": "2026-08-13T19:41:47Z",
+                "owner": "vmiklos",
+                "repo": "ged2dot",
+                "stars": 106
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DOT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gedcom5-conversion",
+              "description": "Utilities for GEDCOM 5.5 to GEDCOM X Conversion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4262609,
+                "language": "Java",
+                "last_commit": "2024-04-01T13:33:02Z",
+                "owner": "FamilySearch",
+                "repo": "gedcom5-conversion",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GEDCOM X"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GEDCOMToJSONConverter",
+              "description": "Convert GEDCOM genealogy file to a JSON representation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34785685,
+                "language": "Python",
+                "last_commit": "2015-04-29T15:21:39Z",
+                "owner": "PatKayongo",
+                "repo": "GEDCOMToJSONConverter",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JSON"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GedcomRDF",
               "description": "Gedcom and Genealogy information in Semantic Web format, using RDF serialization format(s)",
               "children": [],
@@ -54,6 +142,50 @@
           "description": null,
           "node_type": "group",
           "title": "RDF"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gedcom-tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68413274,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-01-07T16:01:08Z",
+                "owner": "ligurio",
+                "repo": "gedcom",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gedcomparser",
+              "description": "GEDCOM parser, convert an GEDCOM raw data file into XML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13925932,
+                "language": "Groovy",
+                "last_commit": "2013-10-30T05:37:31Z",
+                "owner": "alfredxiao",
+                "repo": "gedcomparser",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XML"
         }
       ],
       "title": "Converters"
@@ -61,6 +193,72 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gedcom-dart",
+              "description": "Dart library to parse GEDCOM data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304591037,
+                "language": "Dart",
+                "last_commit": "2026-07-09T23:25:04Z",
+                "owner": "orestesgaolin",
+                "repo": "gedcom-dart",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GEDCOM",
+              "description": "A .NET library that imports data from a .ged (GEDCOM) file",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25707485,
+                "language": "C#",
+                "last_commit": "2014-10-25T10:52:56Z",
+                "owner": "prm9894",
+                "repo": "GEDCOM",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gedcom",
+              "description": "Clojure GEDCOM library",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1172250,
+                "language": "Clojure",
+                "last_commit": "2013-04-09T23:34:40Z",
+                "owner": "geni",
+                "repo": "gedcom",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure"
+        },
         {
           "children": [
             {
@@ -246,6 +444,28 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript/Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gedcom-Framework",
+              "description": "Cocoa framework for parsing Gedcom data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3816003,
+                "language": "Objective-C",
+                "last_commit": "2014-02-07T11:47:54Z",
+                "owner": "mikkelee",
+                "repo": "Gedcom-Framework",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Objective-C"
         },
         {
           "children": [
@@ -439,6 +659,28 @@
           "description": null,
           "node_type": "group",
           "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gedcom",
+              "description": "Scala library to parse GEDCOM files (common genealogy format)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15732942,
+                "language": "Scala",
+                "last_commit": "2014-01-15T12:08:45Z",
+                "owner": "davidmoten",
+                "repo": "gedcom",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scala"
         }
       ],
       "title": "Parsers"
@@ -488,7 +730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:12:03.338Z",
+    "last_updated": "2026-08-24T14:32:13.605Z",
     "original_repository": "todrobbins/awesome-gedcom",
     "original_repository_id": 36778897,
     "original_repository_sha": "5e92d5aab74bdfa5fe4c6e5d7ea39cdf6f63192c",
