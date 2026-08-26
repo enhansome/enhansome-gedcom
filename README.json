@@ -310,7 +310,7 @@
                 "last_commit": "2026-08-19T17:46:15Z",
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
-                "stars": 271
+                "stars": 272
               }
             },
             {
@@ -730,7 +730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:06:58.162Z",
+    "last_updated": "2026-08-26T09:09:35.282Z",
     "original_repository": "todrobbins/awesome-gedcom",
     "original_repository_id": 36778897,
     "original_repository_sha": "5e92d5aab74bdfa5fe4c6e5d7ea39cdf6f63192c",
