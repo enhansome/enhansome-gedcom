@@ -102,7 +102,7 @@
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 272 | 🐛 119 | 🌐 Python | 📅 2026-08-19 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 273 | 🐛 118 | 🌐 Python | 📅 2026-08-26 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

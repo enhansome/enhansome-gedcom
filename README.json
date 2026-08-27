@@ -307,10 +307,10 @@
                 "archived": false,
                 "id": 362274054,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:46:15Z",
+                "last_commit": "2026-08-26T15:39:32Z",
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
-                "stars": 272
+                "stars": 273
               }
             },
             {
@@ -730,9 +730,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:09:35.282Z",
-    "original_repository": "todrobbins/awesome-gedcom",
-    "original_repository_id": 36778897,
+    "last_updated": "2026-08-27T11:39:33.329Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 36778897,
+      "language": null,
+      "last_commit": "2026-08-18T22:20:23Z",
+      "owner": "todrobbins",
+      "repo": "awesome-gedcom",
+      "stars": 262
+    },
     "original_repository_sha": "5e92d5aab74bdfa5fe4c6e5d7ea39cdf6f63192c",
     "enhanced_repository": "enhansome/enhansome-gedcom",
     "enhanced_repository_description": null,
