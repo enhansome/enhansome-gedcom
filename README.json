@@ -18,7 +18,8 @@
                 "owner": "ShammyLevva",
                 "repo": "FTAnalyzer",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "vmiklos",
                 "repo": "ged2dot",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "FamilySearch",
                 "repo": "gedcom5-conversion",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -84,7 +87,8 @@
                 "owner": "PatKayongo",
                 "repo": "GEDCOMToJSONConverter",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -106,7 +110,8 @@
                 "owner": "BruceWhealton",
                 "repo": "GedcomRDF",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -121,7 +126,8 @@
                 "owner": "jo-pol",
                 "repo": "gedcom2sem",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -136,7 +142,8 @@
                 "owner": "bricas",
                 "repo": "gedcom-foaf",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -158,7 +165,8 @@
                 "owner": "ligurio",
                 "repo": "gedcom",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -180,7 +188,8 @@
                 "owner": "alfredxiao",
                 "repo": "gedcomparser",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -208,7 +217,8 @@
                 "owner": "orestesgaolin",
                 "repo": "gedcom-dart",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -230,7 +240,8 @@
                 "owner": "prm9894",
                 "repo": "GEDCOM",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -252,7 +263,8 @@
                 "owner": "geni",
                 "repo": "gedcom",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -274,7 +286,8 @@
                 "owner": "elliotchance",
                 "repo": "gedcom",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -289,7 +302,8 @@
                 "owner": "iand",
                 "repo": "gedcom",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -311,7 +325,8 @@
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -326,7 +341,8 @@
                 "owner": "frizbog",
                 "repo": "gedcom4j",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -341,7 +357,8 @@
                 "owner": "thnaeff",
                 "repo": "GedcomStore",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -363,7 +380,8 @@
                 "owner": "tmcw",
                 "repo": "gedcom",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -378,7 +396,8 @@
                 "owner": "dcapwell",
                 "repo": "gedcom.js",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -393,7 +412,8 @@
                 "owner": "arbre-app",
                 "repo": "read-gedcom",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -408,7 +428,8 @@
                 "owner": "woodbri",
                 "repo": "family-tree-nodejs",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -423,7 +444,8 @@
                 "owner": "connrs",
                 "repo": "gedcom-stream",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -438,7 +460,8 @@
                 "owner": "thoughtsunificator",
                 "repo": "gedcom-parser",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -460,7 +483,8 @@
                 "owner": "mikkelee",
                 "repo": "Gedcom-Framework",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -482,7 +506,8 @@
                 "owner": "mrkrstphr",
                 "repo": "php-gedcom",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -497,7 +522,8 @@
                 "owner": "cfinke",
                 "repo": "PHP-GEDCOM-Tools",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -519,7 +545,8 @@
                 "owner": "madprime",
                 "repo": "python-gedcom",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -534,7 +561,8 @@
                 "owner": "dijxtra",
                 "repo": "simplepyged",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -549,7 +577,8 @@
                 "owner": "amandasaurus",
                 "repo": "gedcompy",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -564,7 +593,8 @@
                 "owner": "rootsdev",
                 "repo": "python-gedcom-parser",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -586,7 +616,8 @@
                 "owner": "pdavies011010",
                 "repo": "gedcom-ruby",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -601,7 +632,8 @@
                 "owner": "rbur004",
                 "repo": "gedcom",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -616,7 +648,8 @@
                 "owner": "mikefarmer",
                 "repo": "ruby-gedcom-parser",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -638,7 +671,8 @@
                 "owner": "pirtleshell",
                 "repo": "rust-gedcom",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -653,7 +687,8 @@
                 "owner": "ephraimkunz",
                 "repo": "gedcomx-rs",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -675,7 +710,8 @@
                 "owner": "davidmoten",
                 "repo": "gedcom",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -703,7 +739,8 @@
                 "owner": "PeWu",
                 "repo": "topola-viewer",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             },
             {
               "node_type": "item",
@@ -718,7 +755,8 @@
                 "owner": "PeWu",
                 "repo": "topola",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T20:17:33.598Z"
             }
           ],
           "description": null,
@@ -730,7 +768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:11:07.744Z",
+    "last_updated": "2026-08-28T20:17:33.598Z",
     "original_repository_info": {
       "archived": false,
       "id": 36778897,
