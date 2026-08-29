@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Family Tree Analyzer - Finds hidden details in your family tree. Install at ",
+                "homepage": "http://www.ftanalyzer.com/install",
                 "id": 95352451,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T14:16:21Z",
+                "open_issues": 49,
                 "owner": "ShammyLevva",
                 "repo": "FTAnalyzer",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -35,12 +40,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GEDCOM to Graphviz converter",
+                "homepage": "https://vmiklos.hu/ged2dot/",
                 "id": 14041463,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-13T19:41:47Z",
+                "open_issues": 1,
                 "owner": "vmiklos",
                 "repo": "ged2dot",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "dot",
+                  "gedcom",
+                  "libreoffice",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -58,12 +73,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for GEDCOM 5.5 to GEDCOM X Conversion",
+                "homepage": null,
                 "id": 4262609,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-01T13:33:02Z",
+                "open_issues": 10,
                 "owner": "FamilySearch",
                 "repo": "gedcom5-conversion",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -81,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert GEDCOM genealogy file to a JSON representation",
+                "homepage": null,
                 "id": 34785685,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-04-29T15:21:39Z",
+                "open_issues": 1,
                 "owner": "PatKayongo",
                 "repo": "GEDCOMToJSONConverter",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -104,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gedcom and Genealogy information in Semantic Web format, using RDF serialization format(s).",
+                "homepage": null,
                 "id": 9397520,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2013-06-03T19:38:52Z",
+                "open_issues": 0,
                 "owner": "BruceWhealton",
                 "repo": "GedcomRDF",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -120,12 +150,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "connects GedCom files with the semantic web",
+                "homepage": "https://jo-pol.github.io/gedcom2sem/",
                 "id": 32275904,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-12T21:46:26Z",
+                "open_issues": 11,
                 "owner": "jo-pol",
                 "repo": "gedcom2sem",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gedcom",
+                  "rdf",
+                  "sparql",
+                  "ttl"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -136,12 +176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Output FOAF files from Gedcom individuals and families",
+                "homepage": "http://search.cpan.org/dist/Gedcom-FOAF/",
                 "id": 142168,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2009-09-17T17:13:45Z",
+                "open_issues": 0,
                 "owner": "bricas",
                 "repo": "gedcom-foaf",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -159,12 +204,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Genealogy Tools",
+                "homepage": null,
                 "id": 68413274,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-01-07T16:01:08Z",
+                "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "gedcom",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "gedcom",
+                  "gedcomx",
+                  "genealogy",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -182,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GEDCOM parser, convert an GEDCOM raw data file into XML",
+                "homepage": null,
                 "id": 13925932,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2013-10-30T05:37:31Z",
+                "open_issues": 1,
                 "owner": "alfredxiao",
                 "repo": "gedcomparser",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -211,12 +271,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dart library to parse GEDCOM data",
+                "homepage": "https://pub.dev/packages/gedcom",
                 "id": 304591037,
                 "language": "Dart",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-09T23:25:04Z",
+                "open_issues": 4,
                 "owner": "orestesgaolin",
                 "repo": "gedcom-dart",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "dart",
+                  "gedcom",
+                  "gedcom-dart",
+                  "gedcom-parser"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -234,12 +304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A .NET library that imports data from a .ged (GEDCOM) file. GEDCOM is a format for saving Genealogy data and is an export format for Family Tree Maker.",
+                "homepage": null,
                 "id": 25707485,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2014-10-25T10:52:56Z",
+                "open_issues": 0,
                 "owner": "prm9894",
                 "repo": "GEDCOM",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -257,12 +332,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Clojure GEDCOM library",
+                "homepage": null,
                 "id": 1172250,
                 "language": "Clojure",
+                "license": "EPL-1.0",
                 "last_commit": "2013-04-09T23:34:40Z",
+                "open_issues": 1,
                 "owner": "geni",
                 "repo": "gedcom",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -280,12 +360,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👪 A Go library and CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files.",
+                "homepage": null,
                 "id": 138611264,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-10T05:14:02Z",
+                "open_issues": 63,
                 "owner": "elliotchance",
                 "repo": "gedcom",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "converts",
+                  "decoder",
+                  "gedcom",
+                  "gedcom-encoder",
+                  "gedcom-files",
+                  "go",
+                  "json"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -296,12 +389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go package to parse GEDCOM files.",
+                "homepage": null,
                 "id": 13389164,
                 "language": "Go",
+                "license": "Unlicense",
                 "last_commit": "2026-05-22T15:49:33Z",
+                "open_issues": 0,
                 "owner": "iand",
                 "repo": "gedcom",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -319,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 362274054,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T15:39:32Z",
+                "open_issues": 118,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -335,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java library for reading/writing genealogy files in GEDCOM format",
+                "homepage": "http://gedcom4j.org",
                 "id": 6889389,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-06-13T13:35:08Z",
+                "open_issues": 28,
                 "owner": "frizbog",
                 "repo": "gedcom4j",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -351,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions",
+                "homepage": null,
                 "id": 11239406,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-20T18:22:34Z",
+                "open_issues": 0,
                 "owner": "thnaeff",
                 "repo": "GedcomStore",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -374,12 +487,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON.",
+                "homepage": "https://tmcw.github.io/gedcom/live/",
                 "id": 28783259,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2025-12-14T20:10:57Z",
+                "open_issues": 4,
                 "owner": "tmcw",
                 "repo": "gedcom",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "gedcom",
+                  "genealogy"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -390,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gedcom parser for JavaScript",
+                "homepage": null,
                 "id": 7856459,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-04-18T16:17:03Z",
+                "open_issues": 1,
                 "owner": "dcapwell",
                 "repo": "gedcom.js",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -406,12 +532,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern Gedcom parser written in Typescript",
+                "homepage": "https://docs.arbre.app/read-gedcom",
                 "id": 291798574,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-12T10:04:53Z",
+                "open_issues": 4,
                 "owner": "arbre-app",
                 "repo": "read-gedcom",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "gedcom",
+                  "genealogy",
+                  "parser",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -422,12 +558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application for loading GEDCOM files and serving them on the web as navigable family trees.",
+                "homepage": null,
                 "id": 158009873,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-17T22:14:27Z",
+                "open_issues": 3,
                 "owner": "woodbri",
                 "repo": "family-tree-nodejs",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -438,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A node.js processor for GEDCOM files.",
+                "homepage": null,
                 "id": 6115958,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-05-05T13:45:16Z",
+                "open_issues": 2,
                 "owner": "connrs",
                 "repo": "gedcom-stream",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -454,12 +600,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny GEDCOM parser",
+                "homepage": "http://gedcom-parser.unificator.me",
                 "id": 373589084,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-15T14:10:17Z",
+                "open_issues": 0,
                 "owner": "thoughtsunificator",
                 "repo": "gedcom-parser",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "gedcom",
+                  "gedcom-parser",
+                  "parser"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -477,12 +632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cocoa framework for parsing Gedcom data",
+                "homepage": null,
                 "id": 3816003,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2014-02-07T11:47:54Z",
+                "open_issues": 0,
                 "owner": "mikkelee",
                 "repo": "Gedcom-Framework",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -500,12 +660,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNMAINTAINED - A library for reading and writing GEDCOM files in PHP.",
+                "homepage": null,
                 "id": 7860331,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-12-08T11:39:36Z",
+                "open_issues": 14,
                 "owner": "mrkrstphr",
                 "repo": "php-gedcom",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -516,12 +681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP scripts for interacting with GEDCOM files.",
+                "homepage": null,
                 "id": 21714995,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2015-12-06T05:30:08Z",
+                "open_issues": 0,
                 "owner": "cfinke",
                 "repo": "PHP-GEDCOM-Tools",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -539,12 +709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module for parsing, analyzing, and manipulating GEDCOM files",
+                "homepage": null,
                 "id": 3907102,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-01-19T12:54:41Z",
+                "open_issues": 4,
                 "owner": "madprime",
                 "repo": "python-gedcom",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -555,12 +730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Python GEDCOM parser",
+                "homepage": null,
                 "id": 961433,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-12-01T03:10:35Z",
+                "open_issues": 3,
                 "owner": "dijxtra",
                 "repo": "simplepyged",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -571,12 +751,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python library to parse and work with GEDCOM (geneology/family tree) files",
+                "homepage": null,
                 "id": 23082572,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-04T22:55:18Z",
+                "open_issues": 8,
                 "owner": "amandasaurus",
                 "repo": "gedcompy",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -587,12 +772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python parser for GEDCOM 5.5 format",
+                "homepage": null,
                 "id": 5432109,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2017-07-16T16:03:38Z",
+                "open_issues": 1,
                 "owner": "rootsdev",
                 "repo": "python-gedcom-parser",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -610,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Ruby library for easily doing custom, callback-based GEDCOM parsing",
+                "homepage": null,
                 "id": 60825,
                 "language": "Ruby",
+                "license": "LGPL-2.1",
                 "last_commit": "2008-12-05T19:20:59Z",
+                "open_issues": 0,
                 "owner": "pdavies011010",
                 "repo": "gedcom-ruby",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -626,12 +821,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby Gedcom parser",
+                "homepage": null,
                 "id": 7517673,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-28T04:41:31Z",
+                "open_issues": 3,
                 "owner": "rbur004",
                 "repo": "gedcom",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -642,12 +842,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple gedcom parser for ruby",
+                "homepage": null,
                 "id": 1009572,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2013-09-02T20:00:26Z",
+                "open_issues": 0,
                 "owner": "mikefarmer",
                 "repo": "ruby-gedcom-parser",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -665,12 +870,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a gedcom parser written in rust :crab:",
+                "homepage": "https://crates.io/crates/gedcom",
                 "id": 267749340,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-01-05T14:24:38Z",
+                "open_issues": 5,
                 "owner": "pirtleshell",
                 "repo": "rust-gedcom",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "gedcom",
+                  "gedcom-parser",
+                  "genealogy",
+                  "rust",
+                  "rust-lang"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -681,12 +897,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Rust crates for working with GEDCOM X.",
+                "homepage": null,
                 "id": 329502619,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-06-19T13:48:33Z",
+                "open_issues": 0,
                 "owner": "ephraimkunz",
                 "repo": "gedcomx-rs",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "familysearch",
+                  "gedcomx",
+                  "genealogy",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -704,12 +930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scala library to parse GEDCOM files (common genealogy format)",
+                "homepage": null,
                 "id": 15732942,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2014-01-15T12:08:45Z",
+                "open_issues": 0,
                 "owner": "davidmoten",
                 "repo": "gedcom",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -733,12 +964,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topola Genealogy Viewer – interactive genealogy visualization",
+                "homepage": "https://pewu.github.io/topola-viewer",
                 "id": 167267743,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T11:58:56Z",
+                "open_issues": 42,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
-                "stars": 335
+                "stars": 335,
+                "topics": [
+                  "family-tree",
+                  "gedcom",
+                  "genealogy",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             },
@@ -749,12 +990,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topola – online genealogy visualization",
+                "homepage": null,
                 "id": 135029589,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T06:58:37Z",
+                "open_issues": 19,
                 "owner": "PeWu",
                 "repo": "topola",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "d3",
+                  "gedcom",
+                  "genealogy",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
             }
@@ -768,15 +1019,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:17:33.598Z",
+    "last_updated": "2026-08-29T04:49:38.365Z",
     "original_repository_info": {
       "archived": false,
+      "description": "GEDCOM utilities that will ease the pain",
+      "homepage": null,
       "id": 36778897,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-18T22:20:23Z",
+      "open_issues": 2,
       "owner": "todrobbins",
       "repo": "awesome-gedcom",
-      "stars": 262
+      "stars": 262,
+      "topics": [
+        "awesome-list",
+        "family-data",
+        "familysearch",
+        "gedcom",
+        "genealogy"
+      ]
     },
     "original_repository_sha": "5e92d5aab74bdfa5fe4c6e5d7ea39cdf6f63192c",
     "enhanced_repository": "enhansome/enhansome-gedcom",
