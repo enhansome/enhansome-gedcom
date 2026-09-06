@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:54:36.716Z",
+    "last_updated": "2026-09-06T12:13:39.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
@@ -1031,7 +1031,7 @@
       "open_issues": 3,
       "owner": "todrobbins",
       "repo": "awesome-gedcom",
-      "stars": 262,
+      "stars": 263,
       "topics": [
         "awesome-list",
         "family-data",
