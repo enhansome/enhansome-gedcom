@@ -999,7 +999,7 @@
                 "open_issues": 16,
                 "owner": "PeWu",
                 "repo": "topola",
-                "stars": 123,
+                "stars": 122,
                 "topics": [
                   "d3",
                   "gedcom",
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:57:41.033Z",
+    "last_updated": "2026-09-09T13:03:30.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
