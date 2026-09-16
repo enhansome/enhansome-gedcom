@@ -496,7 +496,7 @@
                 "open_issues": 4,
                 "owner": "tmcw",
                 "repo": "gedcom",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "gedcom",
                   "genealogy"
@@ -541,7 +541,7 @@
                 "open_issues": 4,
                 "owner": "arbre-app",
                 "repo": "read-gedcom",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "gedcom",
                   "genealogy",
@@ -567,7 +567,7 @@
                 "open_issues": 3,
                 "owner": "woodbri",
                 "repo": "family-tree-nodejs",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -969,11 +969,11 @@
                 "id": 167267743,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T02:59:53Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-15T15:12:14Z",
+                "open_issues": 42,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "family-tree",
                   "gedcom",
@@ -999,7 +999,7 @@
                 "open_issues": 17,
                 "owner": "PeWu",
                 "repo": "topola",
-                "stars": 122,
+                "stars": 123,
                 "topics": [
                   "d3",
                   "gedcom",
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:44:50.586Z",
+    "last_updated": "2026-09-16T13:37:34.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",

@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 72 | 🌐 Python | 📅 2026-09-15 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 74 | 🌐 Python | 📅 2026-09-16 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -108,10 +108,10 @@
 
 ### JavaScript/Node.js
 
-* [parse-gedcom](https://github.com/tmcw/parse-gedcom) ⭐ 188 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-14 - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
+* [parse-gedcom](https://github.com/tmcw/parse-gedcom) ⭐ 189 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-14 - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
 * [gedcom.js](https://github.com/dcapwell/gedcom.js) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2022-04-18 - Gedcom parser for JavaScript
-* [read-gedcom](https://github.com/arbre-app/read-gedcom) ⭐ 26 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-12 - A modern GEDCOM parser with type declarations
-* [family-tree-nodejs](https://github.com/woodbri/family-tree-nodejs) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-17 - Application for loading GEDCOM files and serving them on the web as navigable family trees
+* [read-gedcom](https://github.com/arbre-app/read-gedcom) ⭐ 27 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-12 - A modern GEDCOM parser with type declarations
+* [family-tree-nodejs](https://github.com/woodbri/family-tree-nodejs) ⭐ 22 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-17 - Application for loading GEDCOM files and serving them on the web as navigable family trees
 * [gedcom-stream](https://github.com/connrs/gedcom-stream) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2020-05-05 - A node.js processor for GEDCOM files
 * [gedcom-parser](https://github.com/thoughtsunificator/gedcom-parser) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-15 - A tiny GEDCOM parser
 
@@ -155,8 +155,8 @@
 
 ### TypeScript
 
-* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 339 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-10 - interactive genealogy visualization
-* [topola](https://github.com/PeWu/topola) ⭐ 122 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-10 - library for embedding genealogy tree visualizations on web pages
+* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 340 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-15 - interactive genealogy visualization
+* [topola](https://github.com/PeWu/topola) ⭐ 123 | 🐛 17 | 🌐 TypeScript | 📅 2026-09-10 - library for embedding genealogy tree visualizations on web pages
 
 ## License
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
