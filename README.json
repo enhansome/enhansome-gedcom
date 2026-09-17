@@ -21,7 +21,7 @@
                 "open_issues": 49,
                 "owner": "ShammyLevva",
                 "repo": "FTAnalyzer",
-                "stars": 66,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -760,7 +760,7 @@
                 "open_issues": 8,
                 "owner": "amandasaurus",
                 "repo": "gedcompy",
-                "stars": 40,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -995,8 +995,8 @@
                 "id": 135029589,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T02:57:29Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-17T02:09:15Z",
+                "open_issues": 18,
                 "owner": "PeWu",
                 "repo": "topola",
                 "stars": 123,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:37:34.657Z",
+    "last_updated": "2026-09-17T13:40:09.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
