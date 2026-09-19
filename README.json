@@ -426,7 +426,7 @@
                 "open_issues": 119,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:03:20.721Z",
+    "last_updated": "2026-09-19T12:36:32.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
