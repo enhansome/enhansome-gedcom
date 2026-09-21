@@ -155,7 +155,7 @@
 
 ### TypeScript
 
-* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 340 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-15 - interactive genealogy visualization
+* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 341 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-15 - interactive genealogy visualization
 * [topola](https://github.com/PeWu/topola) ⭐ 123 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-17 - library for embedding genealogy tree visualizations on web pages
 
 ## License
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
