@@ -43,7 +43,7 @@
 
 ### DOT
 
-* [ged2dot](https://github.com/vmiklos/ged2dot) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2026-09-02 - GEDCOM to Graphviz converter
+* [ged2dot](https://github.com/vmiklos/ged2dot) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2026-09-26 - GEDCOM to Graphviz converter
 
 ### GEDCOM X
 
@@ -102,7 +102,7 @@
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 276 | 🐛 119 | 🌐 Python | 📅 2026-09-23 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 277 | 🐛 119 | 🌐 Python | 📅 2026-09-23 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
