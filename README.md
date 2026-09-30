@@ -38,7 +38,7 @@
 
 ### CSV
 
-* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 65 | 🐛 49 | 🌐 C# | 📅 2026-08-21 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
+* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 65 | 🐛 49 | 🌐 C# | 📅 2026-09-29 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
 * [twineconvert](https://twineconvert.com/gedcom-to-csv) - In-browser GEDCOM to CSV converter. No install, no upload, files stay on your device. Preserves family relationships via FAM/INDI ID links and keeps fuzzy dates ("BEF 1850", "ABT JUN 1923") as strings instead of forcing ISO.
 
 ### DOT
@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 75 | 🌐 Python | 📅 2026-09-28 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 76 | 🌐 Python | 📅 2026-09-30 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -102,7 +102,7 @@
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 277 | 🐛 120 | 🌐 Python | 📅 2026-09-23 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 277 | 🐛 121 | 🌐 Python | 📅 2026-09-23 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
@@ -155,7 +155,7 @@
 
 ### TypeScript
 
-* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 342 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-15 - interactive genealogy visualization
+* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 343 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-15 - interactive genealogy visualization
 * [topola](https://github.com/PeWu/topola) ⭐ 123 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-17 - library for embedding genealogy tree visualizations on web pages
 
 ## License
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
