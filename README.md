@@ -155,7 +155,7 @@
 
 ### TypeScript
 
-* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 344 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-15 - interactive genealogy visualization
+* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 344 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-03 - interactive genealogy visualization
 * [topola](https://github.com/PeWu/topola) ⭐ 123 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-17 - library for embedding genealogy tree visualizations on web pages
 
 ## License
