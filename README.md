@@ -43,7 +43,7 @@
 
 ### DOT
 
-* [ged2dot](https://github.com/vmiklos/ged2dot) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2026-09-26 - GEDCOM to Graphviz converter
+* [ged2dot](https://github.com/vmiklos/ged2dot) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - GEDCOM to Graphviz converter
 
 ### GEDCOM X
 
@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 75 | 🌐 Python | 📅 2026-10-01 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 4 | 🐛 76 | 🌐 Python | 📅 2026-10-03 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -155,7 +155,7 @@
 
 ### TypeScript
 
-* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 343 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-15 - interactive genealogy visualization
+* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 344 | 🐛 42 | 🌐 TypeScript | 📅 2026-09-15 - interactive genealogy visualization
 * [topola](https://github.com/PeWu/topola) ⭐ 123 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-17 - library for embedding genealogy tree visualizations on web pages
 
 ## License
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
