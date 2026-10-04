@@ -995,8 +995,8 @@
                 "id": 135029589,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T02:09:15Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-03T22:17:45Z",
+                "open_issues": 17,
                 "owner": "PeWu",
                 "repo": "topola",
                 "stars": 123,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:34:57.106Z",
+    "last_updated": "2026-10-04T14:14:06.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
