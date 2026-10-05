@@ -973,7 +973,7 @@
                 "open_issues": 43,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
-                "stars": 344,
+                "stars": 346,
                 "topics": [
                   "family-tree",
                   "gedcom",
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:14:06.718Z",
+    "last_updated": "2026-10-05T17:16:37.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
