@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T21:04:58Z",
-                "open_issues": 49,
+                "open_issues": 51,
                 "owner": "ShammyLevva",
                 "repo": "FTAnalyzer",
                 "stars": 65,
@@ -423,7 +423,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-23T15:39:20Z",
-                "open_issues": 121,
+                "open_issues": 120,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
                 "stars": 279,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:21:12.869Z",
+    "last_updated": "2026-10-07T15:40:42.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",

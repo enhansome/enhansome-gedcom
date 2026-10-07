@@ -38,7 +38,7 @@
 
 ### CSV
 
-* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 65 | 🐛 49 | 🌐 C# | 📅 2026-09-29 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
+* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 65 | 🐛 51 | 🌐 C# | 📅 2026-09-29 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
 * [twineconvert](https://twineconvert.com/gedcom-to-csv) - In-browser GEDCOM to CSV converter. No install, no upload, files stay on your device. Preserves family relationships via FAM/INDI ID links and keeps fuzzy dates ("BEF 1850", "ABT JUN 1923") as strings instead of forcing ISO.
 
 ### DOT
@@ -102,7 +102,7 @@
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 279 | 🐛 121 | 🌐 Python | 📅 2026-09-23 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 279 | 🐛 120 | 🌐 Python | 📅 2026-09-23 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
