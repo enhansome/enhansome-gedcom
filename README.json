@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:40:42.593Z",
+    "last_updated": "2026-10-08T15:45:54.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
@@ -1028,7 +1028,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-18T22:20:23Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "todrobbins",
       "repo": "awesome-gedcom",
       "stars": 267,
