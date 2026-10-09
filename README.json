@@ -17,8 +17,8 @@
                 "id": 95352451,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T21:04:58Z",
-                "open_issues": 51,
+                "last_commit": "2026-10-08T19:20:35Z",
+                "open_issues": 50,
                 "owner": "ShammyLevva",
                 "repo": "FTAnalyzer",
                 "stars": 65,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T15:45:54.497Z",
+    "last_updated": "2026-10-09T15:26:39.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
