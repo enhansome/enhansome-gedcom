@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "vmiklos",
                 "repo": "ged2dot",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "dot",
                   "gedcom",
@@ -422,8 +422,8 @@
                 "id": 362274054,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T15:39:20Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-15T15:59:23Z",
+                "open_issues": 122,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
                 "stars": 281,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T13:35:06.667Z",
+    "last_updated": "2026-10-16T13:23:52.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
@@ -1028,7 +1028,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-18T22:20:23Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "todrobbins",
       "repo": "awesome-gedcom",
       "stars": 268,
