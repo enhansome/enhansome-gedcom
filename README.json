@@ -973,7 +973,7 @@
                 "open_issues": 43,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
-                "stars": 350,
+                "stars": 352,
                 "topics": [
                   "family-tree",
                   "gedcom",
@@ -995,8 +995,8 @@
                 "id": 135029589,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T10:25:37Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-18T13:24:06Z",
+                "open_issues": 19,
                 "owner": "PeWu",
                 "repo": "topola",
                 "stars": 123,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:41:44.570Z",
+    "last_updated": "2026-10-19T15:46:33.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
