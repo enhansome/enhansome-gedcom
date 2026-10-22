@@ -98,11 +98,11 @@
 ### Go
 
 * [gedcom](https://github.com/elliotchance/gedcom) ⭐ 124 | 🐛 63 | 🌐 Go | 📅 2024-06-10 ([@elliotchance](https://github.com/elliotchance/)) - library & CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files
-* [gedcom](https://github.com/iand/gedcom) ⭐ 41 | 🐛 0 | 🌐 Go | 📅 2026-05-22 ([@iand](https://github.com/iand/)) - Go package to parse GEDCOM files
+* [gedcom](https://github.com/iand/gedcom) ⭐ 41 | 🐛 0 | 🌐 Go | 📅 2026-10-21 ([@iand](https://github.com/iand/)) - Go package to parse GEDCOM files
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 281 | 🐛 123 | 🌐 Python | 📅 2026-10-17 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 281 | 🐛 120 | 🌐 Python | 📅 2026-10-21 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
