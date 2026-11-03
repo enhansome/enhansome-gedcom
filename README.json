@@ -21,7 +21,7 @@
                 "open_issues": 50,
                 "owner": "ShammyLevva",
                 "repo": "FTAnalyzer",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -973,7 +973,7 @@
                 "open_issues": 43,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "family-tree",
                   "gedcom",
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:39:12.875Z",
+    "last_updated": "2026-11-03T16:24:15.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
@@ -1028,7 +1028,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-18T22:20:23Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "todrobbins",
       "repo": "awesome-gedcom",
       "stars": 269,
