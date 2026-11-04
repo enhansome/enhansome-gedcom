@@ -110,7 +110,7 @@
 
 * [parse-gedcom](https://github.com/tmcw/parse-gedcom) ⭐ 189 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-14 - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
 * [gedcom.js](https://github.com/dcapwell/gedcom.js) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2022-04-18 - Gedcom parser for JavaScript
-* [read-gedcom](https://github.com/arbre-app/read-gedcom) ⭐ 27 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-12 - A modern GEDCOM parser with type declarations
+* [read-gedcom](https://github.com/arbre-app/read-gedcom) ⭐ 28 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-12 - A modern GEDCOM parser with type declarations
 * [family-tree-nodejs](https://github.com/woodbri/family-tree-nodejs) ⭐ 22 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-17 - Application for loading GEDCOM files and serving them on the web as navigable family trees
 * [gedcom-stream](https://github.com/connrs/gedcom-stream) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2020-05-05 - A node.js processor for GEDCOM files
 * [gedcom-parser](https://github.com/thoughtsunificator/gedcom-parser) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-15 - A tiny GEDCOM parser
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
