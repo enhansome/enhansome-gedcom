@@ -422,8 +422,8 @@
                 "id": 362274054,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T22:18:09Z",
-                "open_issues": 126,
+                "last_commit": "2026-11-05T19:13:26Z",
+                "open_issues": 132,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
                 "stars": 283,
@@ -999,7 +999,7 @@
                 "open_issues": 14,
                 "owner": "PeWu",
                 "repo": "topola",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "d3",
                   "gedcom",
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:37:56.578Z",
+    "last_updated": "2026-11-06T16:05:38.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
@@ -1028,7 +1028,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-18T22:20:23Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "todrobbins",
       "repo": "awesome-gedcom",
       "stars": 270,
