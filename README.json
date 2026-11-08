@@ -422,8 +422,8 @@
                 "id": 362274054,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T19:13:26Z",
-                "open_issues": 132,
+                "last_commit": "2026-11-08T00:21:54Z",
+                "open_issues": 127,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
                 "stars": 284,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:58:50.946Z",
+    "last_updated": "2026-11-08T15:28:04.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
