@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 7 | 🐛 77 | 🌐 Python | 📅 2026-10-25 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 7 | 🐛 74 | 🌐 Python | 📅 2026-11-12 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -102,7 +102,7 @@
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 285 | 🐛 130 | 🌐 Python | 📅 2026-11-11 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 285 | 🐛 124 | 🌐 Python | 📅 2026-11-12 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
@@ -155,8 +155,8 @@
 
 ### TypeScript
 
-* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 353 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-31 - interactive genealogy visualization
-* [topola](https://github.com/PeWu/topola) ⭐ 124 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-31 - library for embedding genealogy tree visualizations on web pages
+* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 353 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-31 - interactive genealogy visualization
+* [topola](https://github.com/PeWu/topola) ⭐ 124 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-31 - library for embedding genealogy tree visualizations on web pages
 
 ## License
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
