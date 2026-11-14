@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 7 | 🐛 74 | 🌐 Python | 📅 2026-11-12 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 7 | 🐛 75 | 🌐 Python | 📅 2026-11-14 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -97,7 +97,7 @@
 
 ### Go
 
-* [gedcom](https://github.com/elliotchance/gedcom) ⭐ 124 | 🐛 63 | 🌐 Go | 📅 2024-06-10 ([@elliotchance](https://github.com/elliotchance/)) - library & CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files
+* [gedcom](https://github.com/elliotchance/gedcom) ⭐ 124 | 🐛 64 | 🌐 Go | 📅 2026-11-13 ([@elliotchance](https://github.com/elliotchance/)) - library & CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files
 * [gedcom](https://github.com/iand/gedcom) ⭐ 41 | 🐛 0 | 🌐 Go | 📅 2026-10-21 ([@iand](https://github.com/iand/)) - Go package to parse GEDCOM files
 
 ### Java
@@ -108,7 +108,7 @@
 
 ### JavaScript/Node.js
 
-* [parse-gedcom](https://github.com/tmcw/parse-gedcom) ⭐ 189 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-14 - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
+* [parse-gedcom](https://github.com/tmcw/parse-gedcom) ⭐ 189 | 🐛 5 | 🌐 TypeScript | 📅 2025-12-14 - A simple GEDCOM parser that focuses on translating GEDCOM structure into JSON
 * [gedcom.js](https://github.com/dcapwell/gedcom.js) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2022-04-18 - Gedcom parser for JavaScript
 * [read-gedcom](https://github.com/arbre-app/read-gedcom) ⭐ 28 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-12 - A modern GEDCOM parser with type declarations
 * [family-tree-nodejs](https://github.com/woodbri/family-tree-nodejs) ⭐ 22 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-17 - Application for loading GEDCOM files and serving them on the web as navigable family trees
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
