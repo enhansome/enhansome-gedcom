@@ -47,7 +47,7 @@
 
 ### GEDCOM X
 
-* [gedcom5-conversion](https://github.com/FamilySearch/gedcom5-conversion) ⭐ 35 | 🐛 10 | 🌐 Java | 📅 2024-04-01 - Utilities for GEDCOM 5.5 to GEDCOM X Conversion
+* [gedcom5-conversion](https://github.com/FamilySearch/gedcom5-conversion) ⭐ 34 | 🐛 10 | 🌐 Java | 📅 2024-04-01 - Utilities for GEDCOM 5.5 to GEDCOM X Conversion
 
 ### JSON
 
@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 7 | 🐛 75 | 🌐 Python | 📅 2026-11-14 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 7 | 🐛 75 | 🌐 Python | 📅 2026-11-15 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

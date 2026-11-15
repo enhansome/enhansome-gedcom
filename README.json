@@ -82,7 +82,7 @@
                 "open_issues": 10,
                 "owner": "FamilySearch",
                 "repo": "gedcom5-conversion",
-                "stars": 35,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:15:01.081Z",
+    "last_updated": "2026-11-15T15:45:27.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
