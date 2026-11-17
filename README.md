@@ -38,7 +38,7 @@
 
 ### CSV
 
-* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 66 | 🐛 50 | 🌐 C# | 📅 2026-10-08 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
+* [FTAnalyzer](https://github.com/ShammyLevva/FTAnalyzer) ⭐ 66 | 🐛 51 | 🌐 C# | 📅 2026-10-08 - FTAnalyzer let's you export GEDCOM file to .csv file, has GUI, available for Windows and Mac
 * [twineconvert](https://twineconvert.com/gedcom-to-csv) - In-browser GEDCOM to CSV converter. No install, no upload, files stay on your device. Preserves family relationships via FAM/INDI ID links and keeps fuzzy dates ("BEF 1850", "ABT JUN 1923") as strings instead of forcing ISO.
 
 ### DOT
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
