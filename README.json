@@ -422,11 +422,11 @@
                 "id": 362274054,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T18:20:06Z",
-                "open_issues": 120,
+                "last_commit": "2026-11-18T17:11:07Z",
+                "open_issues": 113,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -970,7 +970,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T19:23:25Z",
-                "open_issues": 45,
+                "open_issues": 47,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
                 "stars": 353,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:44:15.328Z",
+    "last_updated": "2026-11-18T17:25:19.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
