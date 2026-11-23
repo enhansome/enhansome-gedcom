@@ -102,7 +102,7 @@
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 287 | 🐛 115 | 🌐 Python | 📅 2026-11-19 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 288 | 🐛 115 | 🌐 Python | 📅 2026-11-19 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
@@ -155,8 +155,8 @@
 
 ### TypeScript
 
-* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 354 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-21 - interactive genealogy visualization
-* [topola](https://github.com/PeWu/topola) ⭐ 124 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-18 - library for embedding genealogy tree visualizations on web pages
+* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 354 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-23 - interactive genealogy visualization
+* [topola](https://github.com/PeWu/topola) ⭐ 123 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-23 - library for embedding genealogy tree visualizations on web pages
 
 ## License
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

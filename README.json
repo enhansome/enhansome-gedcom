@@ -426,7 +426,7 @@
                 "open_issues": 115,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -969,7 +969,7 @@
                 "id": 167267743,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T23:46:26Z",
+                "last_commit": "2026-11-23T18:55:39Z",
                 "open_issues": 45,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
@@ -995,11 +995,11 @@
                 "id": 135029589,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T22:25:52Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-23T18:13:43Z",
+                "open_issues": 15,
                 "owner": "PeWu",
                 "repo": "topola",
-                "stars": 124,
+                "stars": 123,
                 "topics": [
                   "d3",
                   "gedcom",
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:30:50.227Z",
+    "last_updated": "2026-11-23T20:26:22.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
