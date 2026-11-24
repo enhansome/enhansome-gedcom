@@ -365,8 +365,8 @@
                 "id": 138611264,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-13T18:42:57Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-24T15:59:27Z",
+                "open_issues": 63,
                 "owner": "elliotchance",
                 "repo": "gedcom",
                 "stars": 124,
@@ -426,7 +426,7 @@
                 "open_issues": 115,
                 "owner": "FamilySearch",
                 "repo": "GEDCOM",
-                "stars": 288,
+                "stars": 289,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:17:33.598Z"
@@ -969,7 +969,7 @@
                 "id": 167267743,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T18:55:39Z",
+                "last_commit": "2026-11-23T22:23:37Z",
                 "open_issues": 45,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:26:22.801Z",
+    "last_updated": "2026-11-24T19:37:13.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",

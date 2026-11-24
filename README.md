@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 8 | 🐛 78 | 🌐 Python | 📅 2026-11-21 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 8 | 🐛 75 | 🌐 Python | 📅 2026-11-24 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -97,12 +97,12 @@
 
 ### Go
 
-* [gedcom](https://github.com/elliotchance/gedcom) ⭐ 124 | 🐛 64 | 🌐 Go | 📅 2026-11-13 ([@elliotchance](https://github.com/elliotchance/)) - library & CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files
+* [gedcom](https://github.com/elliotchance/gedcom) ⭐ 124 | 🐛 63 | 🌐 Go | 📅 2026-11-24 ([@elliotchance](https://github.com/elliotchance/)) - library & CLI tools for encoding, decoding, traversing, merging, comparing, querying and publishing GEDCOM files
 * [gedcom](https://github.com/iand/gedcom) ⭐ 41 | 🐛 0 | 🌐 Go | 📅 2026-10-21 ([@iand](https://github.com/iand/)) - Go package to parse GEDCOM files
 
 ### Java
 
-* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 288 | 🐛 115 | 🌐 Python | 📅 2026-11-19 - Gedcom parsers
+* [Gedcom](https://github.com/FamilySearch/Gedcom) ⭐ 289 | 🐛 115 | 🌐 Python | 📅 2026-11-19 - Gedcom parsers
 * [gedcom4j](https://github.com/frizbog/gedcom4j) ⭐ 63 | 🐛 28 | 🌐 Java | 📅 2023-06-13 - gedcom4j is a Java library for parsing and writing GEDCOM 5.5 and 5.5.1 files
 * [GedcomStore](https://github.com/thnaeff/GedcomStore) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-08-20 - To parse lineage-linked GEDCOM grammar files and build the GEDCOM-structure according to the parsed definitions
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
