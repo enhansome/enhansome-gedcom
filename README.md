@@ -79,7 +79,7 @@
 
 ## Tools
 
-* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 8 | 🐛 75 | 🌐 Python | 📅 2026-11-24 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
+* [AncestryLLM](https://github.com/sodejm/AncestryLLM) ⭐ 8 | 🐛 75 | 🌐 Python | 📅 2026-11-25 - Local-first CLI and interactive tools for researching family history with GEDCOM and RootsMagic data; optional AI assistance is explicit opt-in.
 
 ## Parsers
 
@@ -155,8 +155,8 @@
 
 ### TypeScript
 
-* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 354 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-23 - interactive genealogy visualization
-* [topola](https://github.com/PeWu/topola) ⭐ 123 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-23 - library for embedding genealogy tree visualizations on web pages
+* [topola-viewer](https://github.com/PeWu/topola-viewer) ⭐ 354 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-25 - interactive genealogy visualization
+* [topola](https://github.com/PeWu/topola) ⭐ 123 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-25 - library for embedding genealogy tree visualizations on web pages
 
 ## License
 
@@ -166,4 +166,4 @@ To the extent possible under law, [Tod Robbins](https://todrobbins.com) has waiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

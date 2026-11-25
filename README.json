@@ -969,8 +969,8 @@
                 "id": 167267743,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T22:23:37Z",
-                "open_issues": 45,
+                "last_commit": "2026-11-25T17:59:18Z",
+                "open_issues": 44,
                 "owner": "PeWu",
                 "repo": "topola-viewer",
                 "stars": 354,
@@ -995,8 +995,8 @@
                 "id": 135029589,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T18:13:43Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-25T17:51:40Z",
+                "open_issues": 13,
                 "owner": "PeWu",
                 "repo": "topola",
                 "stars": 123,
@@ -1019,7 +1019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:37:13.099Z",
+    "last_updated": "2026-11-25T18:44:16.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "GEDCOM utilities that will ease the pain",
